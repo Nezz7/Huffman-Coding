@@ -1,4 +1,3 @@
-package huffmancoding;
 
 import java.io.BufferedWriter;
 import java.util.Scanner;

@@ -1,4 +1,3 @@
-package huffmancoding;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;
