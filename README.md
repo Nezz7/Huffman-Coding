@@ -4,15 +4,16 @@ Huffman-Coding
 ## Introduction
 A Huffman coding implementation in Java . You will find in this project :
 
-    * Huffman tree implemented
-    * Coding file 
-    * Decoding file
+* Huffman tree implemented
+* Coding file 
+* Decoding file
+
 ## Techniques used 
-    * Greedy Algorithms
-    * TreeMap
-    * PriorityQueue (Min Heap)
-    * Nested Class
-    * Recursion (dfs)
+* Greedy Algorithms
+* TreeMap
+* PriorityQueue (Min Heap)
+* Nested Class
+* Recursion (dfs)
 
 ## How to test 
 
