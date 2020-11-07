@@ -2,7 +2,7 @@ Huffman-Coding
 ========================
 
 ## Introduction
-    A Huffman coding implementation in Java . You will find in this project :
+A Huffman coding implementation in Java . You will find in this project :
 
     * Huffman tree implemented
     * Coding file 
@@ -21,7 +21,7 @@ Huffman-Coding
 ```
 $ java huffmancoding -huff -c  $INPUT_FILE_PATH
 ```
-#### 2. DeCoding file 
+#### 2. Decoding file 
 
 ```
 $ java huffmancoding -huff -d  $INPUT_FILE_PATH
